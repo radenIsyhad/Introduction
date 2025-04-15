@@ -2,7 +2,7 @@
 
 I'm a D4 Electroincs Engineering student at POLBAN, passionate about making technology accesible, meanigful, and full of soul. I believe engineering is not about machines--It's about **people**, **curiousity**, and **solving real problems**.
 
-My core interests are:
+## My core interests are:
 - Embedded systems & robotics (especially in agriculture & education)
 - Project-based learing (PBL) as a revolution in technical education
 - Linux, open-source, and creative computing
