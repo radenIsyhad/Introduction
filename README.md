@@ -9,6 +9,9 @@ I'm a D4 Electroincs Engineering student at POLBAN, passionate about making tech
 
 I've been diving into tech since high school — tinkering with Linux, building websites, and even making a line-quiz board using just paper, light bulb, and a little logic.
 
+## What I'm building:
+I'm working on a dream building a learning community focused on robotics, character, and curiousity. It's not about theory or tests, but about solving real problem together and growing as people.
+
 ### A bit more personal:
 - I'm a Hoshiyomi, but also a critical thinker with soft spot for realism.
 - I'm driven by the dream of sparking an **Abbasid 2.0**. a new golden age through electronics, education, and shared curiousity.
