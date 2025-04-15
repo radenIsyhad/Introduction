@@ -14,4 +14,4 @@ I've been diving into tech since high school - tinkering with Linux, building we
 - I'm driven by the dream of sparking an **Abbasid 2.0**. a new golden age through electronics, education, and shared curiousity.
 - I reflect deeply, lead calmly, and love meaningful conversations--especially when it helps someone grows.
 
-**"Humans are like stars--sometimes they shine bright, sometimes they dim. And that's okay"** 
+**"Humans are like stars-sometimes they shine bright, sometimes they dim. And that's okay"** 
